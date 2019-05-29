@@ -9,7 +9,7 @@
     "build": "node_modules/.bin/babel main.js -o liri.js"
   },
   "dependencies": {
-    "axios": "^0.17.1",
+    "axios": "^0.18.0",
     "moment": "^2.19.3",
     "node-spotify-api": "^1.0.7",
     "request": "^2.83.0",
